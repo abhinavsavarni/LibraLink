@@ -60,7 +60,7 @@ A full-featured online bookstore web application that allows users to browse, pu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SaanviGupta2005/bookstore.git
+git clone https://github.com/abhinavsavarni/bookstore.git
 cd bookstore
 ```
 
